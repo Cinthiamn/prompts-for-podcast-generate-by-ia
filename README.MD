@@ -13,14 +13,9 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Desafio de Projeto Podcast Gerado por I.A.s - Meditaê
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Projeto para entrega do Desafio de Projeto com o objetivo de gerar um Podcast digital com as facilidades das ferramentas de IA
 
 ## 💻 Tecnologias utilizadas no projeto
 
