@@ -7,6 +7,8 @@
 
 <p align="center">
     preview do podcast
+
+[desafio podcast Meditaê.mp4](./output/DESAFIO PROJETO - PODCAST.mp4)
 </p>
 
 <div align="center">
