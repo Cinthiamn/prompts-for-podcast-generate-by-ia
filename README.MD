@@ -8,7 +8,7 @@
 <p align="center">
     preview do podcast
 
-[desafio podcast Meditaê.mp4](./output/DESAFIO PROJETO - PODCAST.mp4)
+[desafio podcast Meditaê.mp4](https://github.com/Cinthiamn/prompts-for-podcast-generate-by-ia/blob/ba3f8793e0175f9ae95c866c1f3f656173c50b8d/output/DESAFIO%20PROJETO%20-%20PODCAST.mp4)
 </p>
 
 <div align="center">
