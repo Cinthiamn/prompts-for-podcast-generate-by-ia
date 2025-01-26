@@ -8,7 +8,7 @@
 <p align="center">
     preview do podcast
 
-[Podcast MeditaêMP3.mp3](output/Podcast MeditaêMP3.mp3)
+[Podcast MeditaêMP3.mp3](https://github.com/Cinthiamn/prompts-for-podcast-generate-by-ia/blob/c501ba2fba0441561a252a07257213345cf939c2/output/Podcast%20Medita%C3%AAMP3.mp3)
 </p>
 
 <div align="center">
